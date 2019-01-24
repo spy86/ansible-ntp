@@ -1,2 +1,8 @@
 ---
 # defaults file for ansible-ntp
+
+ntp_servers:
+  - server 0.pl.pool.ntp.org
+  - server 1.pl.pool.ntp.org
+  - server 2.pl.pool.ntp.org
+  - server 3.pl.pool.ntp.org
