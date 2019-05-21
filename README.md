@@ -1,7 +1,9 @@
 Role Name
 =========
 
-Role to set up [![NTP](https://img.shields.io/badge/NTP-Service-green.svg)](http://www.pool.ntp.org/)
+![ansible-ntp](https://img.shields.io/github/issues/spy86/ansible-ntp.svg) ![ansible-ntp](https://img.shields.io/github/forks/spy86/ansible-ntp.svg) ![ansible-ntp](https://img.shields.io/github/stars/spy86/ansible-ntp.svg) ![ansible-ntp](https://img.shields.io/github/license/spy86/ansible-ntp.svg) ![ansible-ntp](https://img.shields.io/twitter/url/https/github.com/spy86/ansible-ntp.svg?style=social)
+
+Role to set up [NTP-Service](http://www.pool.ntp.org/)
 
 
 Requirements
@@ -36,8 +38,3 @@ Example Playbook
           - 3.it.pool.ntp.org
 
 ```
-
-License
--------
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
